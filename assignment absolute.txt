@@ -1,0 +1,53 @@
+{ ABSOLUTE BY IMAGE }
+----------------------------------------------------------
+1.Mobiles and Tablets
+html/body/div/div/div[2]/div/div/div[2]/a/div/div/img
+
+2.Electronics
+html/body/div/div/div[2]/div/div/div[3]/a/div/div/img
+
+3.TV and Appliances
+html/body/div/div/div[2]/div/div/div[4]/a/div/div/img
+
+4.Fashion
+html/body/div/div/div[2]/div/div/div[5]/a/div/div/img
+
+5.Beauty
+html/body/div/div/div[2]/div/div/div[6]/a/div/div/img
+
+6.Home and Furniture
+html/body/div/div/div[2]/div/div/div[7]/a/div/div/img
+
+7.Flights
+html/body/div/div/div[2]/div/div/div[8]/a/div/div/img
+
+8.Grocery
+html/body/div/div/div[2]/div/div/div[9]/a/div/div/img
+
+--------------------------------------------------------
+
+{ ABSOLUTE BY TEXT }
+--------------------------------------------------------
+1.Mobiles and Tablets
+html/body/div/div/div[2]/div/div/div[2]/a/div[2]
+
+2.Electronics
+html/body/div/div/div[2]/div/div/div[3]/a/div[2]
+
+3.TV and Appliances
+html/body/div/div/div[2]/div/div/div[4]/a/div[2]
+
+4.Fashion
+html/body/div/div/div[2]/div/div/div[5]/a/div[2]
+
+5.Beauty
+html/body/div/div/div[2]/div/div/div[6]/a/div[2]
+
+6.Home and Furniture
+html/body/div/div/div[2]/div/div/div[7]/a/div[2]
+
+7.Flights
+html/body/div/div/div[2]/div/div/div[8]/a/div[2]
+
+8.Grocery
+html/body/div/div/div[2]/div/div/div[9]/a/div[2]
